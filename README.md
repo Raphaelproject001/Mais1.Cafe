@@ -51,6 +51,10 @@
             color: #fff;
             border-radius: 8px;
         }
+        .map {
+            width: 100%;
+            height: 400px;
+        }
     </style>
 </head>
 <body>
@@ -74,6 +78,13 @@
         </section>
 
         <a href="mailto:contato@maiscafe.com.br" class="button">Entre em Contato</a>
+    </div>
+
+
+    <div id="localizacao" class="container">
+    <h2>Localização</h2>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.302957820021!2d-39.32858028572309!3d-7.18844196458026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70521f7aeb9b7a7%3A0x5d1a8b75c0664f!2sPra%C3%A7a%20Padre%20C%C3%ADcero%2C%20Juazeiro%20do%20Norte%20-%20CE%2C%2046380-000!5e0!3m2!1spt-BR!2sbr!4v1632205638422!5m2!1spt-BR!2sbr" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
     <footer>
