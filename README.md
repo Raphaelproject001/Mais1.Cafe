@@ -58,6 +58,8 @@
         <header>
             <h1>Bem-vindo ao Mais Café</h1>
             <p>Seu café favorito em Juazeiro do Norte!</p>
+            <p>Screenshot_20240730-090502~2.png</p>
+            <p>Screenshot_20240730-090355~2.png</p>
         </header>
         
         <section>
