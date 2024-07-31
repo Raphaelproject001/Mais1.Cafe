@@ -8,14 +8,14 @@
 </head>
 <body>
     <header>
-        <!-- Inclua o código do cabeçalho aqui -->
+       <h1>Bem-vindo ao Point da Nanda</h1> 
     </header>
     <main>
         <h1>Sobre Nós</h1>
         <p>Informações sobre a pousada e a lanchonete, a história e a equipe.</p>
     </main>
     <footer>
-        <!-- Inclua o código do rodapé aqui -->
+        <p>&copy; 2024 Point da Nanda. Todos os direitos reservados.</p>
     </footer>
     <script src="js/scripts.js"></script>
 </body>
