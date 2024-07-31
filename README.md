@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mais Café - Juazeiro do Norte</title>
+    <title>Mais1.Café - Juazeiro do Norte</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -60,21 +60,21 @@
 <body>
     <div class="container">
         <header>
-            <h1>Bem-vindo ao Mais Café</h1>
+            <h1>Bem-vindo ao Mais1.Café</h1>
             <p>Seu café favorito em Juazeiro do Norte!</p>
         </header>    
 
         
         <section>
             <h2>Sobre Nós</h2>
-            <p>O Mais Café é o lugar perfeito para você desfrutar de um excelente café em um ambiente acolhedor e agradável. Localizado em frente à Praça Padre Cícero, oferecemos uma variedade de cafés especiais, acompanhamentos deliciosos e um atendimento excepcional.</p>
+            <p>O Mais1.Café é o lugar perfeito para você desfrutar de um excelente café em um ambiente acolhedor e agradável. Localizado em frente à Praça Padre Cícero, oferecemos uma variedade de cafés especiais, acompanhamentos deliciosos e um atendimento excepcional.</p>
         </section>
         
         <section class="contact-info">
             <h2>Localização</h2>
             <p><strong>Endereço:</strong>  Rua do Cruzeiro N°149 em frente Praça Padre Cícero, Juazeiro do Norte - CE, Brasil</p>
             <p><strong>Telefone:</strong> (88) 3304-4142 </p>
-            <p><strong>Email:</strong> contato@maiscafe.com.br</p>
+            <p><strong>Email:</strong> contato@mais1.cafe.com.br</p>
         </section>
 
         <a href="mailto:contato@maiscafe.com.br" class="button">Entre em Contato</a>
