@@ -88,7 +88,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 Mais Café - Todos os direitos reservados.</p>
+        <p>&copy; 2024 Mais1.Café - Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
