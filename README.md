@@ -69,7 +69,7 @@
         <section class="contact-info">
             <h2>Localização</h2>
             <p><strong>Endereço:</strong>  Rua do Cruzeiro N°149 em frente Praça Padre Cícero, Juazeiro do Norte - CE, Brasil</p>
-            <p><strong>Telefone:</strong> <(88) 3304-4142></p>
+            <p><strong>Telefone:</strong> (88) 3304-4142 </p>
             <p><strong>Email:</strong> contato@maiscafe.com.br</p>
         </section>
 
